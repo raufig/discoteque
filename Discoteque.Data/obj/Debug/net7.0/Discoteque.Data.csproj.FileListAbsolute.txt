@@ -1,0 +1,12 @@
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.deps.json
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.dll
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.pdb
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.AssemblyReference.cache
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfoInputs.cache
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfo.cs
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.CoreCompileInputs.cache
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.dll
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
+D:\raufigCode\.NET bootcamp\discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll
